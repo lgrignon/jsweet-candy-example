@@ -1,0 +1,10 @@
+/target/
+/bin/
+/.classpath
+/.project
+/.settings/
+/.jsweet/
+src/main/resources/META-INF/resources/typings
+#javadoc folder:
+candy-example
+dist
