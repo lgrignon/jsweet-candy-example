@@ -9,13 +9,13 @@ Sample candy project
 Clone this project with git and install the JSweet candy in your local Maven repository (so that you can refer to it as a dependency in other Maven projects):
 
 ```bash
-> mvn install
+> mvn clean install
 ```
 
 To deploy the candy to the [jsweet-candies](https://github.com/jsweet-candies) organization (please contact us to get an authorized access):
 
 ```bash
-> mvn deploy
+> mvn clean deploy
 ```
 
 Note: if you want to publish the candy in your own Maven repository, please refer to existing documentation on that particular topic.
